@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.container{
+        display: flex;
+        
+    }
+   .col-sm-1 img,.col-sm-2 img, .col-sm-4 img, .col-sm-12 img{
+    width: 100px;
+    height:100px;
+    display: flex;
+    
+   }
